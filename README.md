@@ -7,7 +7,7 @@ CHANGES:
 A sharper looking menu
 No longer in the INTER-DIMENSIONAL VOID (Thanks Tyler)
 Repeated talking after pressing the right arrow bug fixed
-Mac OS compatibility
+Mac OS (OS X) compatibility
 
 WHAT TO LOOK FORWARD TO IN THE NEXT ALPHA:
 An introductory backstory screen thingy after you press start
