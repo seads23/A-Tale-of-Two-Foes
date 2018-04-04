@@ -1,4 +1,4 @@
-This Application was made by Double A Studios, a general partnership in the United States of America.
+This Application was made by Polygon, a general partnership in the United States of America.
 This Application was made using GameMaker. GameMaker is the intellectual property of YoYo Games Ltd, a company of the United Kingdom.
 
 THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
@@ -39,7 +39,7 @@ All trade marks are the property of their respective owners and YoYo Games makes
 The rights granted in this license are non-exclusive.
 This license does not affect your statutory rights as a consumer.
 This License is governed by English Law and the parties submit to the exclusive jurisdiction of the English Courts.
-If you have a problem with this Application, please contact Double A Studios, the creators of this Application, not YoYo Games. You can contact Double A Studios via email at doubleastudios2016@gmail.com.
+If you have a problem with this Application, please contact Polygon, the creators of this Application, not YoYo Games. You can contact Polygon via email at doubleastudios2016@gmail.com.
 
 Click “ACCEPT” and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.
 
